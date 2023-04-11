@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01/Aula01.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01/Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex01/Aula01_Ex01.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex01/Aula01_Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex02/Aula01_Ex02.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex02/Aula01_Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex03/Aula01_Ex03.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex03/Aula01_Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex04/Aula01_Ex04.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex04/Aula01_Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex05/Aula01_Ex05.iml" filepath="$PROJECT_DIR$/Aula01_Variavel/Aula01_Ex05/Aula01_Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02/Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Desafio01/Aula02_Desafio01.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Desafio01/Aula02_Desafio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Desafio02/Aula02_Desafio02.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Desafio02/Aula02_Desafio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio01/Aula02_Exercicio01.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio01/Aula02_Exercicio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio02/Aula02_Exercicio02.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio02/Aula02_Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio03/Aula02_Exercicio03.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio03/Aula02_Exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio04/Aula02_Exercicio04.iml" filepath="$PROJECT_DIR$/Aula02_Decisao/Aula02_Exercicio04/Aula02_Exercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula03_Exercicios/Aula03_Exercicios.iml" filepath="$PROJECT_DIR$/Aula03_Exercicios/Aula03_Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula03_Repeticao/Aula03_Repeticao.iml" filepath="$PROJECT_DIR$/Aula03_Repeticao/Aula03_Repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-java.iml" filepath="$PROJECT_DIR$/.idea/curso-java.iml" />
+    </modules>
+  </component>
+</project>
